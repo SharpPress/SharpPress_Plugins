@@ -5,8 +5,8 @@
       "version": "1.0.0",
       "author": "SharpPress Team",
       "description": "Does nothing.",
-      "icon": "https://raw.githubusercontent.com/user/repo/main/myplugin/icon.png",
-      "downloadUrl": "https://raw.githubusercontent.com/user/repo/main/myplugin/plugin.dll",
+      "icon": "https://raw.githubusercontent.com/VoidbornGames/SharpPress_Plugins/main/myplugin/icon.png",
+      "downloadUrl": "https://raw.githubusercontent.com/VoidbornGames/SharpPress_Plugins/main/myplugin/plugin.dll",
       "minVersion": "1.0.0"
     }
   ]
