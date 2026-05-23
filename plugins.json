@@ -6,8 +6,8 @@
       "Version": "1.0.0",
       "Author": "SharpPress Team",
       "Description": "Does nothing.",
-      "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/myplugin/icon.png",
-      "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/myplugin/plugin.dll",
+      "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/MangaBee/icon.png",
+      "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/MangaBee/MangaBee.dll",
       "MinVersion": "1.0.0"
     }
   ]
