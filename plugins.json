@@ -1,13 +1,14 @@
 {
   "plugins": [
     {
-      "name": "Test Plugin",
-      "version": "1.0.0",
-      "author": "SharpPress Team",
-      "description": "Does nothing.",
-      "icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/myplugin/icon.png",
-      "downloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/myplugin/plugin.dll",
-      "minVersion": "1.0.0"
+      "Id": "0",
+      "Name": "Test Plugin",
+      "Version": "1.0.0",
+      "Author": "SharpPress Team",
+      "Description": "Does nothing.",
+      "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/myplugin/icon.png",
+      "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/myplugin/plugin.dll",
+      "MinVersion": "1.0.0"
     }
   ]
 }
