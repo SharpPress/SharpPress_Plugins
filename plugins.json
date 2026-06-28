@@ -22,7 +22,7 @@
     },
     {
       "Id": "3",
-      "Name": "Hook It",
+      "Name": "HookIt",
       "Version": "1.0.0",
       "Author": "SharpPress Team",
       "Description": "Hook to any event and send a webhook post to any URL.",
